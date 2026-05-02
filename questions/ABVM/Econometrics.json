@@ -1,0 +1,585 @@
+[
+  {
+    "question": "What is the primary purpose of econometrics?",
+    "options": [
+      "To collect economic data",
+      "To provide numerical estimates for economic relationships a…",
+      "To describe economic phenomena using graphs",
+      "To purely derive mathematical equations without empirical v…"
+    ],
+    "correct": 1,
+    "explanation": "Econometrics integrates economic theory, mathematics, and statistics to quantify economic relationships and test hypotheses using real-world data."
+  },
+  {
+    "question": "Which of the following best describes the scope of econometrics?",
+    "options": [
+      "It only deals with descriptive statistics of economic varia…",
+      "It is limited to time series forecasting",
+      "It combines economic theory, mathematical economics, and st…",
+      "It focuses exclusively on qualitative analysis"
+    ],
+    "correct": 2,
+    "explanation": "Econometrics bridges economic theory (qualitative statements), mathematical economics (exact relationships), and statistical methods to provide empirical content."
+  },
+  {
+    "question": "Which of the following is NOT a main goal of econometrics?",
+    "options": [
+      "Testing economic theory",
+      "Policy making through numerical estimates",
+      "Forecasting future values of economic variables",
+      "Designing controlled economic experiments"
+    ],
+    "correct": 3,
+    "explanation": "Econometrics typically works with observational (non‑experimental) data. Designing controlled experiments is not a primary goal; the three main goals are analysis (testing theory), policy simulation, and forecasting."
+  },
+  {
+    "question": "What is the correct order of steps in econometric research?",
+    "options": [
+      "Estimation → Specification → Evaluation → Forecasting",
+      "Specification → Estimation → Evaluation → Forecasting",
+      "Evaluation → Specification → Estimation → Forecasting",
+      "Specification → Forecasting → Estimation → Evaluation"
+    ],
+    "correct": 1,
+    "explanation": "The standard methodology: (1) specify the model (choose variables and functional form), (2) estimate parameters using methods like OLS, (3) evaluate estimates (economic, statistical, econometric criteria), (4) evaluate forecasting power."
+  },
+  {
+    "question": "In the specification stage of econometric modeling, which of the following is NOT typically determined?",
+    "options": [
+      "The dependent and independent variables",
+      "The mathematical form of the model",
+      "The actual numerical values of the parameters",
+      "A priori expectations about the signs of coefficients"
+    ],
+    "correct": 2,
+    "explanation": "Specification defines the structure and variables; numerical estimation comes later. A priori expectations are based on economic theory."
+  },
+  {
+    "question": "How does an econometric model differ from a mathematical economic model?",
+    "options": [
+      "It includes a stochastic error term",
+      "It does not allow for random influences",
+      "It assumes exact deterministic relationships",
+      "It cannot be used for policy analysis"
+    ],
+    "correct": 0,
+    "explanation": "Mathematical economic models assume exact, deterministic relationships. Econometric models add a random error term to account for omitted variables, measurement errors, and inherent randomness."
+  },
+  {
+    "question": "Why is the disturbance term (error term) included in a regression model?",
+    "options": [
+      "To make the model mathematically more complex",
+      "To represent the influence of omitted variables and randomn…",
+      "To artificially increase the R-squared",
+      "To convert a linear model into a non‑linear one"
+    ],
+    "correct": 1,
+    "explanation": "The error term captures the net effect of variables not explicitly included in the model, measurement errors, and the inherent stochastic nature of economic relationships."
+  },
+  {
+    "question": "A dataset that contains observations on GDP of Ethiopia from 1990 to 2020 is an example of:",
+    "options": [
+      "Cross‑sectional data",
+      "Time series data",
+      "Panel data",
+      "Experimental data"
+    ],
+    "correct": 1,
+    "explanation": "Time series data consist of observations on a variable (or several variables) over time, collected at successive points (e.g., years, quarters)."
+  },
+  {
+    "question": "If you have data on 100 households' consumption and income for the same year, this is:",
+    "options": [
+      "Time series data",
+      "Cross‑sectional data",
+      "Panel data",
+      "Aggregated data"
+    ],
+    "correct": 1,
+    "explanation": "Cross‑sectional data are collected at a given point in time across different units (individuals, firms, countries)."
+  },
+  {
+    "question": "A dataset that follows the same 200 households over 5 years (annual observations) is called:",
+    "options": [
+      "Pooled cross‑section",
+      "Time series",
+      "Panel (longitudinal) data",
+      "Experimental data"
+    ],
+    "correct": 2,
+    "explanation": "Panel data combines both cross‑sectional (multiple units) and time series (multiple time periods) dimensions, tracking the same units over time."
+  },
+  {
+    "question": "If the Pearson correlation coefficient between two variables is -0.85, what can you conclude?",
+    "options": [
+      "There is a strong positive linear relationship",
+      "There is a weak negative linear relationship",
+      "There is a strong negative linear relationship",
+      "The variables are independent"
+    ],
+    "correct": 2,
+    "explanation": "Pearson’s r ranges from -1 to +1. A value of -0.85 indicates a strong negative linear association (as one variable increases, the other tends to decrease)."
+  },
+  {
+    "question": "Which statement about correlation is TRUE?",
+    "options": [
+      "Correlation implies causation",
+      "A zero correlation always means independence",
+      "Correlation measures the strength and direction of a linear…",
+      "The correlation coefficient is unit‑dependent"
+    ],
+    "correct": 2,
+    "explanation": "Correlation quantifies the linear association between two variables, but it does not imply causation. A zero correlation only means no linear relationship; variables could still be non‑linearly related. The coefficient is unit‑free."
+  },
+  {
+    "question": "When would you use Spearman’s rank correlation instead of Pearson’s correlation?",
+    "options": [
+      "When the data are normally distributed",
+      "When the relationship is linear and variables are measured …",
+      "When variables are measured on an ordinal scale or the rela…",
+      "Only when the sample size is larger than 100"
+    ],
+    "correct": 2,
+    "explanation": "Spearman’s rank correlation is a non‑parametric measure based on ranks, suitable for ordinal data or when the assumption of linearity is questionable."
+  },
+  {
+    "question": "Which of the following is an assumption of the Classical Linear Regression Model (CLRM) for simple regression?",
+    "options": [
+      "The error term has a non‑zero mean",
+      "The error term is heteroscedastic",
+      "The error term is normally distributed with zero mean and c…",
+      "The independent variable is stochastic"
+    ],
+    "correct": 2,
+    "explanation": "CLRM assumptions: zero mean of errors, homoscedasticity (constant variance), no autocorrelation, normality, and that the independent variables are fixed in repeated sampling."
+  },
+  {
+    "question": "The assumption of homoscedasticity means that:",
+    "options": [
+      "The variance of the error term is constant across all obser…",
+      "The errors are normally distributed",
+      "The errors are not correlated with each other",
+      "The independent variable has a constant mean"
+    ],
+    "correct": 0,
+    "explanation": "Homoscedasticity (equal spread) implies that the conditional variance of the error term is the same regardless of the values of the independent variables."
+  },
+  {
+    "question": "The Ordinary Least Squares (OLS) method estimates regression coefficients by:",
+    "options": [
+      "Minimizing the sum of absolute residuals",
+      "Minimizing the sum of squared residuals",
+      "Maximizing the coefficient of determination",
+      "Minimizing the variance of the independent variable"
+    ],
+    "correct": 1,
+    "explanation": "OLS minimises the sum of squared vertical distances between observed Y values and the estimated regression line (residual sum of squares)."
+  },
+  {
+    "question": "In the simple linear regression model Y = β0 + β1 X + u, the OLS estimator β̂1 is given by:",
+    "options": [
+      "∑(Xi - X̄)(Yi - Ȳ) / ∑(Xi - X̄)²",
+      "∑(Yi - Ȳ)² / ∑(Xi - X̄)²",
+      "∑XiYi / ∑Xi²",
+      "Ȳ - β̂1 X̄"
+    ],
+    "correct": 0,
+    "explanation": "The slope coefficient is estimated as the ratio of the covariance between X and Y to the variance of X (in deviation form)."
+  },
+  {
+    "question": "The Gauss‑Markov theorem states that under the CLRM assumptions, the OLS estimators are:",
+    "options": [
+      "Unbiased but not efficient",
+      "Best Linear Unbiased Estimators (BLUE)",
+      "Consistent but biased",
+      "Maximum likelihood estimators"
+    ],
+    "correct": 1,
+    "explanation": "The Gauss‑Markov theorem proves that OLS estimators have the minimum variance among all linear unbiased estimators (i.e., they are BLUE) when the CLRM assumptions hold."
+  },
+  {
+    "question": "The coefficient of determination (R²) measures:",
+    "options": [
+      "The proportion of total variation in Y explained by the ind…",
+      "The correlation between the error term and the dependent va…",
+      "The significance of individual coefficients",
+      "The slope of the regression line"
+    ],
+    "correct": 0,
+    "explanation": "R² = Explained Sum of Squares / Total Sum of Squares, ranging from 0 to 1. It indicates how well the model fits the data."
+  },
+  {
+    "question": "If R² = 0.75 in a simple linear regression, what does that mean?",
+    "options": [
+      "75% of the variation in Y is explained by X, and 25% remain…",
+      "The correlation between X and Y is 0.75",
+      "The slope coefficient is 0.75",
+      "75% of the residuals are zero"
+    ],
+    "correct": 0,
+    "explanation": "R² = 0.75 implies that 75% of the total variation in the dependent variable is accounted for by the regression model; the remaining 25% is due to other factors (error term)."
+  },
+  {
+    "question": "To test whether the slope coefficient in a simple linear regression is statistically different from zero, you use a:",
+    "options": [
+      "F‑test with 1 degree of freedom",
+      "t‑test with (n‑2) degrees of freedom",
+      "Chi‑square test",
+      "Durbin‑Watson test"
+    ],
+    "correct": 1,
+    "explanation": "The t‑statistic = (estimated coefficient) / (standard error) follows a t‑distribution with n‑2 degrees of freedom in simple regression (n observations, 2 parameters estimated)."
+  },
+  {
+    "question": "If the calculated t‑value for a regression coefficient is 3.2 and the critical t‑value at 5% significance is 2.0, you should:",
+    "options": [
+      "Accept the null hypothesis that the coefficient is zero",
+      "Reject the null hypothesis; the coefficient is statisticall…",
+      "Conclude that the coefficient is not economically significa…",
+      "Increase the sample size"
+    ],
+    "correct": 1,
+    "explanation": "When |t_calc| > t_critical, we reject the null hypothesis that β = 0, implying the variable has a statistically significant effect on Y."
+  },
+  {
+    "question": "A 95% confidence interval for a regression coefficient means that:",
+    "options": [
+      "There is a 95% probability that the true coefficient lies w…",
+      "In repeated sampling, 95% of such intervals will contain th…",
+      "The coefficient is significant at the 95% level",
+      "The interval contains 95% of the data points"
+    ],
+    "correct": 1,
+    "explanation": "Confidence intervals are based on repeated sampling: if we take many samples and compute intervals, 95% of them will contain the true parameter value."
+  },
+  {
+    "question": "In a multiple regression Y = β0 + β1X1 + β2X2 + u, the coefficient β1 is called:",
+    "options": [
+      "Simple regression coefficient",
+      "Partial regression coefficient",
+      "Total correlation coefficient",
+      "Autoregressive coefficient"
+    ],
+    "correct": 1,
+    "explanation": "β1 measures the change in Y for a one‑unit change in X1, holding X2 constant (ceteris paribus). Hence it is a partial slope coefficient."
+  },
+  {
+    "question": "Adjusted R² is preferred over ordinary R² in multiple regression because:",
+    "options": [
+      "It always increases when adding more variables",
+      "It penalises the inclusion of irrelevant variables",
+      "It is always larger than ordinary R²",
+      "It measures the correlation between residuals"
+    ],
+    "correct": 1,
+    "explanation": "Adjusted R² incorporates a penalty for adding extra regressors (using degrees of freedom), so it can decrease if a variable does not improve the fit enough. Ordinary R² never decreases."
+  },
+  {
+    "question": "A dummy variable takes values of 0 and 1 to represent:",
+    "options": [
+      "Continuous quantitative data",
+      "Qualitative attributes (e.g., gender, region)",
+      "Time series trends",
+      "The error term"
+    ],
+    "correct": 1,
+    "explanation": "Dummy variables are used to include categorical information (e.g., male=1, female=0) in regression models."
+  },
+  {
+    "question": "What is multicollinearity?",
+    "options": [
+      "Correlation between the dependent variable and an independe…",
+      "High correlation among the independent variables",
+      "Non‑constant variance of the error term",
+      "Correlation of the error term over time"
+    ],
+    "correct": 1,
+    "explanation": "Multicollinearity refers to a linear relationship (perfect or near‑perfect) between two or more explanatory variables."
+  },
+  {
+    "question": "Which of the following is a consequence of severe multicollinearity?",
+    "options": [
+      "Large standard errors of the estimated coefficients",
+      "Biased OLS estimators",
+      "R² close to zero",
+      "The error term becomes heteroscedastic"
+    ],
+    "correct": 0,
+    "explanation": "Multicollinearity inflates the variances of OLS estimates (large standard errors), making t‑tests unreliable, but the estimators remain unbiased."
+  },
+  {
+    "question": "A common rule of thumb to detect multicollinearity is a Variance Inflation Factor (VIF) greater than:",
+    "options": [
+      "2",
+      "5",
+      "10",
+      "20"
+    ],
+    "correct": 2,
+    "explanation": "VIF = 1/(1‑R²j) where R²j is from regressing Xj on other X’s. A VIF > 10 indicates serious multicollinearity (R²j > 0.9)."
+  },
+  {
+    "question": "Heteroscedasticity refers to the situation where:",
+    "options": [
+      "The variance of the error term is constant",
+      "The error terms are not correlated",
+      "The variance of the error term changes across observations",
+      "The independent variables are normally distributed"
+    ],
+    "correct": 2,
+    "explanation": "Heteroscedasticity means that the conditional variance of the error term is not constant; it may increase or decrease with the level of an independent variable."
+  },
+  {
+    "question": "Which of the following is a consequence of ignoring heteroscedasticity when using OLS?",
+    "options": [
+      "Coefficient estimates become biased",
+      "Standard errors are invalid, leading to incorrect hypothesi…",
+      "Multicollinearity is induced",
+      "R² becomes negative"
+    ],
+    "correct": 1,
+    "explanation": "OLS estimates remain unbiased but are no longer efficient (minimum variance). Using conventional standard errors leads to invalid t and F tests. Robust (White) standard errors can correct this."
+  },
+  {
+    "question": "The Goldfeld‑Quandt test is used to detect:",
+    "options": [
+      "Multicollinearity",
+      "Autocorrelation",
+      "Heteroscedasticity",
+      "Non‑normality of residuals"
+    ],
+    "correct": 2,
+    "explanation": "The Goldfeld‑Quandt test compares the residual sums of squares from two subsamples (low X vs. high X) to check for heteroscedasticity."
+  },
+  {
+    "question": "Autocorrelation in time series regression means:",
+    "options": [
+      "The independent variables are correlated with each other",
+      "The error terms across different time periods are correlated",
+      "The dependent variable is constant over time",
+      "The errors have constant variance"
+    ],
+    "correct": 1,
+    "explanation": "Autocorrelation (serial correlation) occurs when Cov(uᵢ, uⱼ) ≠ 0 for i≠j, most often in time series data where adjacent errors are related."
+  },
+  {
+    "question": "The Durbin‑Watson d statistic is used to test for:",
+    "options": [
+      "First‑order autocorrelation",
+      "Heteroscedasticity",
+      "Multicollinearity",
+      "Normality of residuals"
+    ],
+    "correct": 0,
+    "explanation": "The Durbin‑Watson test is specifically designed to detect AR(1) serial correlation (first‑order autoregressive errors)."
+  },
+  {
+    "question": "If the Durbin‑Watson d statistic is close to 2, this suggests:",
+    "options": [
+      "Positive autocorrelation",
+      "Negative autocorrelation",
+      "No first‑order autocorrelation",
+      "Perfect multicollinearity"
+    ],
+    "correct": 2,
+    "explanation": "For a large sample, d ≈ 2(1‑ρ̂). When ρ̂=0 (no autocorrelation), d≈2. Values significantly below 2 indicate positive autocorrelation; above 2 suggest negative."
+  },
+  {
+    "question": "When heteroscedasticity is present but the form is unknown, a common solution is to use:",
+    "options": [
+      "Weighted Least Squares (WLS) with known weights",
+      "White’s heteroscedasticity‑robust standard errors",
+      "Differencing the data",
+      "Adding more dummy variables"
+    ],
+    "correct": 1,
+    "explanation": "White’s robust standard errors (or heteroscedasticity‑consistent standard errors) provide valid inference even when the form of heteroscedasticity is unknown."
+  },
+  {
+    "question": "If autocorrelation is of the AR(1) type and ρ is known, the transformation to obtain BLUE estimators is:",
+    "options": [
+      "Y* = Y - Y(t-1)",
+      "Y* = Y - ρY(t-1) (Generalised Least Squares)",
+      "Y* = ln Y",
+      "Y* = Y / X"
+    ],
+    "correct": 1,
+    "explanation": "The GLS transformation for AR(1) errors subtracts ρ times the lagged observation from each variable, resulting in serially uncorrelated errors."
+  },
+  {
+    "question": "In the model ln(Y) = β0 + β1 X + u, the coefficient β1 is interpreted as:",
+    "options": [
+      "The change in Y for a one‑unit change in X",
+      "The percentage change in Y for a one‑unit change in X (time…",
+      "The elasticity of Y with respect to X",
+      "The absolute change in Y for a 1% change in X"
+    ],
+    "correct": 1,
+    "explanation": "This is a log‑lin (semi‑log) model. A one‑unit increase in X leads to a (100·β₁)% change in Y."
+  },
+  {
+    "question": "In a double‑log model ln(Y) = β0 + β1 ln(X) + u, the coefficient β1 measures:",
+    "options": [
+      "The slope of Y on X",
+      "The elasticity of Y with respect to X",
+      "The change in Y given a change in X",
+      "The correlation between ln(Y) and ln(X)"
+    ],
+    "correct": 1,
+    "explanation": "In a log‑log model, β₁ is the elasticity: a 1% change in X leads to a β₁% change in Y (constant elasticity model)."
+  },
+  {
+    "question": "A time series is said to be weakly stationary if:",
+    "options": [
+      "Its mean and variance are constant over time and autocovari…",
+      "Its values do not change over time",
+      "It has a unit root",
+      "It is normally distributed"
+    ],
+    "correct": 0,
+    "explanation": "Weak (covariance) stationarity requires constant mean, constant variance, and that the covariance between two periods depends only on the distance (lag) between them."
+  },
+  {
+    "question": "A unit root in a time series implies that:",
+    "options": [
+      "The series is stationary",
+      "Shocks have a temporary effect",
+      "The series is non‑stationary and shocks have permanent effe…",
+      "The series has no drift"
+    ],
+    "correct": 2,
+    "explanation": "A unit root (e.g., random walk) indicates non‑stationarity; a shock today continues to influence future values indefinitely."
+  },
+  {
+    "question": "The Augmented Dickey‑Fuller (ADF) test is used to:",
+    "options": [
+      "Test for heteroscedasticity",
+      "Test for autocorrelation",
+      "Test for a unit root",
+      "Test for multicollinearity"
+    ],
+    "correct": 2,
+    "explanation": "The ADF test is the most common unit root test, with the null hypothesis that a unit root exists (non‑stationary)."
+  },
+  {
+    "question": "Spurious regression occurs when:",
+    "options": [
+      "Two independent non‑stationary time series produce high R² …",
+      "The regression model is mis‑specified",
+      "There is perfect multicollinearity",
+      "The error terms are autocorrelated"
+    ],
+    "correct": 0,
+    "explanation": "Non‑stationary time series often exhibit trending behaviour; regressing one on another can give misleadingly high R² and t‑statistics despite no economic relationship."
+  },
+  {
+    "question": "If two non‑stationary series are cointegrated, then:",
+    "options": [
+      "They have no long‑run relationship",
+      "A linear combination of them is stationary",
+      "They cannot be used in a regression",
+      "The Durbin‑Watson statistic is always near 2"
+    ],
+    "correct": 1,
+    "explanation": "Cointegration means that although each series is non‑stationary, there exists a linear combination (the cointegrating relationship) that is stationary, representing a long‑run equilibrium."
+  },
+  {
+    "question": "The forecasting ability of an econometric model is best evaluated by:",
+    "options": [
+      "High R² within the sample",
+      "Low standard errors of coefficients",
+      "Performance on out‑of‑sample data",
+      "The Durbin‑Watson statistic"
+    ],
+    "correct": 2,
+    "explanation": "Good in‑sample fit does not guarantee good forecasts. Out‑of‑sample evaluation (e.g., root mean square error) is essential to assess predictive power."
+  },
+  {
+    "question": "Omitted variable bias occurs when:",
+    "options": [
+      "A relevant variable is left out of the model, and it is cor…",
+      "An irrelevant variable is included",
+      "The error term is homoscedastic",
+      "The sample size is too small"
+    ],
+    "correct": 0,
+    "explanation": "If an important determinant of Y is omitted and it is correlated with any included X, OLS estimates become biased and inconsistent."
+  },
+  {
+    "question": "In multiple regression, the F‑test of overall significance tests the null hypothesis that:",
+    "options": [
+      "All slope coefficients are jointly equal to zero",
+      "At least one slope coefficient is zero",
+      "The intercept is zero",
+      "The error variance is constant"
+    ],
+    "correct": 0,
+    "explanation": "The F‑statistic tests H₀: β₁ = β₂ = … = β_k = 0 versus H₁: at least one β ≠ 0."
+  },
+  {
+    "question": "In a linear regression Y = β0 + β1X + u, a one‑unit increase in X leads to:",
+    "options": [
+      "A β₁ unit change in Y on average",
+      "A β₁% change in Y",
+      "A change in Y of exactly β₁ units",
+      "A change in Y that depends on the level of X"
+    ],
+    "correct": 0,
+    "explanation": "The slope β₁ gives the expected change in Y for a one‑unit change in X, holding other factors constant (ceteris paribus)."
+  },
+  {
+    "question": "The standard error of the regression (SER) is an estimate of:",
+    "options": [
+      "The standard deviation of the error term",
+      "The standard deviation of the dependent variable",
+      "The variance of the slope coefficient",
+      "The R² of the model"
+    ],
+    "correct": 0,
+    "explanation": "SER = sqrt(SSR/(n‑k)) estimates σ, the standard deviation of the error term."
+  },
+  {
+    "question": "A prediction interval for a new observation is wider than a confidence interval for the mean prediction because:",
+    "options": [
+      "It accounts for both parameter uncertainty and the random e…",
+      "It uses a different t‑critical value",
+      "It ignores the error variance",
+      "It is based on a smaller sample"
+    ],
+    "correct": 0,
+    "explanation": "Individual forecasts have extra variability due to the error term (σ²), whereas the mean prediction only has estimation uncertainty."
+  },
+  {
+    "question": "Which functional form would you use to model a relationship where Y initially increases then decreases with X?",
+    "options": [
+      "Linear",
+      "Quadratic (polynomial of degree 2)",
+      "Double‑log",
+      "Reciprocal"
+    ],
+    "correct": 1,
+    "explanation": "A quadratic model (Y = β₀ + β₁X + β₂X² + u) can capture a concave or convex shape, including an inverted U‑shape (if β₁>0 and β₂<0)."
+  },
+  {
+    "question": "The Breusch‑Pagan test is used to detect:",
+    "options": [
+      "Multicollinearity",
+      "Heteroscedasticity",
+      "Autocorrelation",
+      "Non‑stationarity"
+    ],
+    "correct": 1,
+    "explanation": "The Breusch‑Pagan test regresses the squared residuals on the independent variables to test for heteroscedasticity."
+  },
+  {
+    "question": "The Ramsey RESET test helps detect:",
+    "options": [
+      "Heteroscedasticity",
+      "Omitted nonlinearity or model misspecification",
+      "Autocorrelation",
+      "Unit roots"
+    ],
+    "correct": 1,
+    "explanation": "RESET (Regression Specification Error Test) adds powers of fitted values to the regression to check for omitted non‑linear relationships."
+  }
+]

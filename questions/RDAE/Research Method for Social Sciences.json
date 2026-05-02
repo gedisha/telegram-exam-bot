@@ -1,0 +1,552 @@
+[
+  {
+    "question": "What is the primary purpose of research?",
+    "options": [
+      "To collect as much data as possible",
+      "To discover answers to questions through scientific procedu…",
+      "To prove a preconceived idea",
+      "To avoid using statistics"
+    ],
+    "correct": 1,
+    "explanation": "Research aims to find truth hidden or not yet discovered by applying systematic scientific methods to answer specific questions."
+  },
+  {
+    "question": "Which type of research seeks to portray the characteristics of a particular individual, situation, or group?",
+    "options": [
+      "Exploratory research",
+      "Descriptive research",
+      "Diagnostic research",
+      "Hypothesis-testing research"
+    ],
+    "correct": 1,
+    "explanation": "Descriptive research studies aim to accurately describe the features of a person, situation, or group."
+  },
+  {
+    "question": "What is the main characteristic of analytical research?",
+    "options": [
+      "It uses surveys to collect new data",
+      "It involves critical evaluation of existing facts and infor…",
+      "It only describes current events",
+      "It relies on laboratory experiments"
+    ],
+    "correct": 1,
+    "explanation": "Analytical research uses already available information and analyses it critically to evaluate the material."
+  },
+  {
+    "question": "Which research approach is concerned with subjective assessment of attitudes, opinions, and behavior?",
+    "options": [
+      "Quantitative approach",
+      "Inferential approach",
+      "Qualitative approach",
+      "Experimental approach"
+    ],
+    "correct": 2,
+    "explanation": "Qualitative research focuses on subjective assessments and is based on the researcher's insights and impressions."
+  },
+  {
+    "question": "What does the term 'research methodology' refer to?",
+    "options": [
+      "The specific techniques for collecting data",
+      "The statistical tests used in analysis",
+      "The systematic way to solve the research problem including …",
+      "The process of writing the final report"
+    ],
+    "correct": 2,
+    "explanation": "Research methodology is the science of how research is done systematically, including the assumptions, principles, and procedures."
+  },
+  {
+    "question": "Which of the following is NOT a step in the research process?",
+    "options": [
+      "Formulating the research problem",
+      "Developing working hypotheses",
+      "Publishing a book review",
+      "Preparing the research design"
+    ],
+    "correct": 2,
+    "explanation": "Publishing a book review is not a standard step in empirical research; the research process includes problem formulation, hypothesis development, design, data collection, analysis, and reporting."
+  },
+  {
+    "question": "What is a 'working hypothesis' in research?",
+    "options": [
+      "A proven fact",
+      "A tentative assumption made to draw out and test its conseq…",
+      "A final conclusion of the study",
+      "A statistical formula"
+    ],
+    "correct": 1,
+    "explanation": "A working hypothesis is a tentative assumption that guides the research by delimiting the area and focusing attention on important facets of the problem."
+  },
+  {
+    "question": "What is the main function of a research design?",
+    "options": [
+      "To provide a comprehensive plan for data collection and ana…",
+      "To replace the need for a literature review",
+      "To guarantee that the research will be successful",
+      "To eliminate all sources of error"
+    ],
+    "correct": 0,
+    "explanation": "Research design is the blueprint for empirical research, specifying the methods and procedures for acquiring, analyzing, interpreting, and reporting data."
+  },
+  {
+    "question": "Which type of research design is most suitable for exploration?",
+    "options": [
+      "Rigid experimental design",
+      "Flexible design that allows considering many aspects of the…",
+      "Longitudinal design only",
+      "Cross-sectional design only"
+    ],
+    "correct": 1,
+    "explanation": "For exploratory research, a flexible design that provides opportunity to consider many different aspects of a problem is appropriate."
+  },
+  {
+    "question": "What is a 'census inquiry'?",
+    "options": [
+      "A survey that covers only a sample of the population",
+      "A complete enumeration of all items in the population",
+      "A qualitative interview technique",
+      "A type of experimental design"
+    ],
+    "correct": 1,
+    "explanation": "A census inquiry covers every element in the universe (population), aiming for the highest accuracy."
+  },
+  {
+    "question": "What is a major advantage of sampling over a census?",
+    "options": [
+      "Sampling always gives more accurate results",
+      "Sampling saves time, money, and resources while providing r…",
+      "Sampling eliminates all systematic bias",
+      "Sampling does not require a sampling frame"
+    ],
+    "correct": 1,
+    "explanation": "Sampling is often necessary due to resource limitations, and it can provide sufficiently accurate results more quickly and cheaply than a census."
+  },
+  {
+    "question": "In probability sampling, each unit of the population has:",
+    "options": [
+      "A known and non-zero chance of being selected",
+      "An unknown chance of being selected",
+      "Zero chance of being selected",
+      "A chance determined by the researcher's judgment"
+    ],
+    "correct": 0,
+    "explanation": "Probability sampling (random sampling) gives every unit a known, non-zero probability of inclusion, allowing statistical inference."
+  },
+  {
+    "question": "What is the defining feature of simple random sampling?",
+    "options": [
+      "Every item in the population has an equal chance of inclusi…",
+      "Items are selected based on convenience",
+      "Only volunteers are included",
+      "The researcher chooses typical cases"
+    ],
+    "correct": 0,
+    "explanation": "Simple random sampling ensures that each member of the population has an equal probability of being selected."
+  },
+  {
+    "question": "In systematic sampling, the sampling interval (k) is calculated as:",
+    "options": [
+      "Sample size divided by population size",
+      "Population size divided by sample size",
+      "Population size times sample size",
+      "The square root of the population size"
+    ],
+    "correct": 1,
+    "explanation": "Systematic sampling uses a fixed interval k = N/n (population size / sample size) to select every kth element after a random start."
+  },
+  {
+    "question": "When would a researcher use stratified sampling?",
+    "options": [
+      "When the population is completely homogeneous",
+      "When the population consists of several distinct subgroups …",
+      "When a sampling frame is unavailable",
+      "Only in qualitative research"
+    ],
+    "correct": 1,
+    "explanation": "Stratified sampling divides the population into homogeneous subgroups (strata) to ensure each subgroup is adequately represented in the sample."
+  },
+  {
+    "question": "What is the main advantage of cluster sampling?",
+    "options": [
+      "It always yields more precise estimates than simple random …",
+      "It reduces travel and administrative costs by sampling natu…",
+      "It eliminates the need for a sampling frame",
+      "It guarantees a larger sample size"
+    ],
+    "correct": 1,
+    "explanation": "Cluster sampling cuts down on costs by selecting groups (e.g., villages, schools) and then sampling within them, reducing travel and listing efforts."
+  },
+  {
+    "question": "Which sampling technique is most useful when it is difficult to identify members of the target population?",
+    "options": [
+      "Simple random sampling",
+      "Stratified sampling",
+      "Snowball sampling",
+      "Cluster sampling"
+    ],
+    "correct": 2,
+    "explanation": "Snowball sampling uses referrals from initial respondents to locate additional members of a hard-to-reach population."
+  },
+  {
+    "question": "What is a 'nominal scale' in measurement?",
+    "options": [
+      "A scale that orders items by rank",
+      "A scale that assigns numbers as labels to categories with n…",
+      "A scale with equal intervals and a true zero",
+      "A scale that measures temperature"
+    ],
+    "correct": 1,
+    "explanation": "Nominal scales use numbers as labels (e.g., 1 = male, 2 = female) – no quantitative value, only classification."
+  },
+  {
+    "question": "Which scale of measurement has a true absolute zero point?",
+    "options": [
+      "Nominal",
+      "Ordinal",
+      "Interval",
+      "Ratio"
+    ],
+    "correct": 3,
+    "explanation": "Ratio scales have a meaningful zero (e.g., weight, height, income) allowing ratio comparisons."
+  },
+  {
+    "question": "The reliability of a measuring instrument refers to:",
+    "options": [
+      "The extent to which it measures what it is supposed to meas…",
+      "The consistency of the measurement results",
+      "The instrument's ability to predict future outcomes",
+      "The instrument's length"
+    ],
+    "correct": 1,
+    "explanation": "Reliability is about consistency and precision – a reliable instrument produces stable, repeatable results."
+  },
+  {
+    "question": "What is the key difference between primary and secondary data?",
+    "options": [
+      "Primary data is always numerical; secondary data is always …",
+      "Primary data is collected by the researcher for the first t…",
+      "Primary data is more accurate than secondary data",
+      "Secondary data is collected from experiments only"
+    ],
+    "correct": 1,
+    "explanation": "Primary data are original data collected afresh; secondary data come from existing sources (e.g., publications, databases)."
+  },
+  {
+    "question": "Which method of data collection involves the researcher asking questions face‑to‑face with respondents?",
+    "options": [
+      "Mailed questionnaire",
+      "Telephone interview",
+      "Personal interview",
+      "Observation"
+    ],
+    "correct": 2,
+    "explanation": "Personal interviews involve direct, face‑to‑face contact between interviewer and respondent."
+  },
+  {
+    "question": "What is a structured interview?",
+    "options": [
+      "An interview with no predetermined questions",
+      "An interview that uses a set of predetermined questions in …",
+      "An interview conducted over the phone",
+      "An interview with multiple respondents at once"
+    ],
+    "correct": 1,
+    "explanation": "Structured interviews follow a rigid procedure with pre‑set questions, ensuring comparability."
+  },
+  {
+    "question": "What is the main limitation of a mailed questionnaire?",
+    "options": [
+      "It is very expensive",
+      "It can only be used with illiterate respondents",
+      "The researcher may lose control over who answers and respon…",
+      "It does not allow closed-ended questions"
+    ],
+    "correct": 2,
+    "explanation": "Mailed questionnaires suffer from low response rates and the risk that the wrong person fills it out."
+  },
+  {
+    "question": "What is participant observation?",
+    "options": [
+      "The researcher observes while also taking part in the group…",
+      "The researcher observes from a distance without interaction",
+      "The researcher only uses audio recordings",
+      "The researcher surveys participants after the event"
+    ],
+    "correct": 0,
+    "explanation": "Participant observation involves the researcher becoming a member of the group to gain an insider's perspective while observing."
+  },
+  {
+    "question": "Which type of research study examines a single unit (e.g., a person, family, or community) in depth?",
+    "options": [
+      "Cross‑sectional survey",
+      "Case study",
+      "Experimental study",
+      "Correlational study"
+    ],
+    "correct": 1,
+    "explanation": "Case study is an intensive investigation of a single unit to understand its behavioral patterns and interrelations."
+  },
+  {
+    "question": "What is the purpose of coding in data processing?",
+    "options": [
+      "To collect raw data",
+      "To assign numerals or symbols to responses so they can be g…",
+      "To write the research report",
+      "To conduct literature review"
+    ],
+    "correct": 1,
+    "explanation": "Coding translates responses into numerical codes for efficient analysis and classification."
+  },
+  {
+    "question": "Which measure of central tendency is most affected by extreme values (outliers)?",
+    "options": [
+      "Mode",
+      "Median",
+      "Mean",
+      "Range"
+    ],
+    "correct": 2,
+    "explanation": "The arithmetic mean uses all values, so extreme scores pull it toward them, while median and mode are more resistant."
+  },
+  {
+    "question": "What does a low p‑value (e.g., <0.05) indicate in hypothesis testing?",
+    "options": [
+      "There is strong evidence against the null hypothesis",
+      "The null hypothesis is definitely true",
+      "The sample size is too small",
+      "The correlation is zero"
+    ],
+    "correct": 0,
+    "explanation": "A low p‑value suggests that the observed effect is unlikely to have occurred by chance, leading to rejection of the null hypothesis."
+  },
+  {
+    "question": "What is the difference between descriptive and inferential statistics?",
+    "options": [
+      "Descriptive statistics summarize data; inferential statisti…",
+      "Descriptive statistics are used only for qualitative data; …",
+      "Descriptive statistics cannot be computed with software",
+      "Inferential statistics do not involve probabilities"
+    ],
+    "correct": 0,
+    "explanation": "Descriptive statistics describe data (e.g., mean, standard deviation); inferential statistics test hypotheses and generalise from samples to populations."
+  },
+  {
+    "question": "What is a research proposal?",
+    "options": [
+      "The final report of a completed study",
+      "A detailed plan that describes what will be done, why, how,…",
+      "A bibliography of sources",
+      "A summary of data analysis"
+    ],
+    "correct": 1,
+    "explanation": "A research proposal is a written plan that outlines the research problem, objectives, methods, work plan, and expected outcomes."
+  },
+  {
+    "question": "Which section of a research proposal describes how data will be collected and analyzed?",
+    "options": [
+      "Introduction",
+      "Literature review",
+      "Methodology",
+      "Budget"
+    ],
+    "correct": 2,
+    "explanation": "The methodology section details the research design, sampling, data collection tools, and analysis plan."
+  },
+  {
+    "question": "What is the main purpose of a literature review in a research proposal?",
+    "options": [
+      "To show that the researcher has read many books",
+      "To identify gaps in existing knowledge and justify the rese…",
+      "To replace the need for primary data",
+      "To provide a list of references only"
+    ],
+    "correct": 1,
+    "explanation": "A literature review summarises prior work, identifies what is not yet known, and positions the proposed study within the existing body of knowledge."
+  },
+  {
+    "question": "What is plagiarism?",
+    "options": [
+      "Using someone else's ideas or words without giving credit",
+      "Citing too many sources",
+      "Writing original content",
+      "Using direct quotations with quotation marks"
+    ],
+    "correct": 0,
+    "explanation": "Plagiarism is presenting another's work (ideas, text, images) as one's own without proper acknowledgment."
+  },
+  {
+    "question": "Which of the following is an ethical obligation in research involving human participants?",
+    "options": [
+      "Manipulating data to support a hypothesis",
+      "Obtaining informed consent from participants",
+      "Sharing raw data without permission",
+      "Withholding the true purpose to trick participants"
+    ],
+    "correct": 1,
+    "explanation": "Researchers must obtain informed consent, respect privacy, and minimise harm to human participants."
+  },
+  {
+    "question": "What is the 'Introduction' section of a research report expected to contain?",
+    "options": [
+      "Raw data tables",
+      "A clear statement of the research problem, objectives, and …",
+      "Detailed statistical calculations",
+      "The complete questionnaire"
+    ],
+    "correct": 1,
+    "explanation": "The introduction sets the stage by presenting the problem, objectives, and relevant background."
+  },
+  {
+    "question": "What is a 'double‑blind' study design?",
+    "options": [
+      "Both the participants and the researchers are unaware of wh…",
+      "Only the participants are unaware",
+      "Only the researchers are unaware",
+      "Neither participants nor researchers know the study objecti…"
+    ],
+    "correct": 0,
+    "explanation": "Double‑blind means neither the subjects nor the experimenters know which group receives the active treatment, reducing bias."
+  },
+  {
+    "question": "What kind of research is designed to solve an immediate practical problem?",
+    "options": [
+      "Pure research",
+      "Applied research",
+      "Exploratory research",
+      "Historical research"
+    ],
+    "correct": 1,
+    "explanation": "Applied research aims to find solutions to specific real‑world problems."
+  },
+  {
+    "question": "Which of the following is a characteristic of qualitative research?",
+    "options": [
+      "Large sample sizes and statistical generalisation",
+      "Focus on understanding meanings and experiences in natural …",
+      "Use of closed‑ended questionnaires only",
+      "Deductive hypothesis testing"
+    ],
+    "correct": 1,
+    "explanation": "Qualitative research seeks deep understanding of phenomena from the participants' perspective, often with smaller, purposive samples."
+  },
+  {
+    "question": "What is a 'focus group'?",
+    "options": [
+      "A group of people surveyed by mail",
+      "A gathering of 6‑10 people to discuss a topic guided by a m…",
+      "A statistical technique for grouping data",
+      "A type of experimental control group"
+    ],
+    "correct": 1,
+    "explanation": "A focus group is a moderated discussion with a small group to explore attitudes, perceptions, and ideas on a specific topic."
+  },
+  {
+    "question": "What is the main advantage of using a Likert scale?",
+    "options": [
+      "It forces respondents to choose between yes/no",
+      "It measures the intensity of attitudes or opinions (e.g., s…",
+      "It is a nominal scale",
+      "It requires open‑ended answers"
+    ],
+    "correct": 1,
+    "explanation": "Likert scales allow respondents to express degree of agreement, providing ordinal data on attitudes."
+  },
+  {
+    "question": "What does 'sampling frame' mean?",
+    "options": [
+      "The list of all units in the population from which the samp…",
+      "The number of people who refuse to participate",
+      "The geographical area where sampling takes place",
+      "The time period for data collection"
+    ],
+    "correct": 0,
+    "explanation": "A sampling frame is the actual list of population elements (e.g., a roster of households) used for selecting the sample."
+  },
+  {
+    "question": "Which of the following is a non‑probability sampling method?",
+    "options": [
+      "Simple random sampling",
+      "Stratified random sampling",
+      "Quota sampling",
+      "Systematic sampling"
+    ],
+    "correct": 2,
+    "explanation": "Quota sampling involves selecting a predetermined number of individuals from different groups, but not randomly – it is non‑probability."
+  },
+  {
+    "question": "What is the main worry if a researcher uses a convenience sample?",
+    "options": [
+      "It is too expensive",
+      "It may not be representative of the population, leading to …",
+      "It takes too much time",
+      "It cannot be used for pilot studies"
+    ],
+    "correct": 1,
+    "explanation": "Convenience sampling is easy but often produces unrepresentative samples, limiting generalisability."
+  },
+  {
+    "question": "What does 'external validity' refer to?",
+    "options": [
+      "The extent to which the measurement tool is reliable",
+      "The extent to which study findings can be generalised to ot…",
+      "The accuracy of statistical tests",
+      "The consistency of results when repeated"
+    ],
+    "correct": 1,
+    "explanation": "External validity is about generalisation: can the results be applied beyond the study sample and context?"
+  },
+  {
+    "question": "What is a 'null hypothesis'?",
+    "options": [
+      "A hypothesis that there is no effect or no relationship bet…",
+      "The hypothesis that the researcher hopes to prove",
+      "A hypothesis that is always true",
+      "A hypothesis that cannot be tested"
+    ],
+    "correct": 0,
+    "explanation": "The null hypothesis (H₀) typically states that no difference or relationship exists; it is the assumption to be tested."
+  },
+  {
+    "question": "What is the purpose of a pilot study?",
+    "options": [
+      "To test the data collection instruments and procedures on a…",
+      "To publish preliminary results",
+      "To replace the main study",
+      "To calculate the exact sample size"
+    ],
+    "correct": 0,
+    "explanation": "A pilot study helps identify problems with questionnaires, instructions, or logistics to improve the main study."
+  },
+  {
+    "question": "Which of the following is a measure of dispersion?",
+    "options": [
+      "Mean",
+      "Median",
+      "Standard deviation",
+      "Mode"
+    ],
+    "correct": 2,
+    "explanation": "Standard deviation (and variance, range) show the spread or variability of data around the mean."
+  },
+  {
+    "question": "What does a correlation coefficient of -0.9 between two variables indicate?",
+    "options": [
+      "A strong positive linear relationship",
+      "A weak negative linear relationship",
+      "A strong negative linear relationship",
+      "No relationship"
+    ],
+    "correct": 2,
+    "explanation": "A correlation near -1 indicates a strong negative linear association (as one variable increases, the other tends to decrease)."
+  },
+  {
+    "question": "What is the final step of the research process?",
+    "options": [
+      "Data collection",
+      "Data analysis",
+      "Writing the research report or thesis",
+      "Formulating the hypothesis"
+    ],
+    "correct": 2,
+    "explanation": "The research process culminates in preparing a report or thesis that communicates the findings and conclusions."
+  }
+]

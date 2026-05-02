@@ -1,0 +1,838 @@
+[
+  {
+    "question": "What distinguishes development economics from traditional neoclassical economics?",
+    "options": [
+      "It focuses only on efficient resource allocation",
+      "It assumes perfect markets and consumer sovereignty",
+      "It deals with structural, institutional, and social transfo…",
+      "It ignores non-economic factors"
+    ],
+    "correct": 2,
+    "explanation": "Development economics goes beyond efficiency to address economic, social, political, and institutional changes needed to raise living standards in low-income countries."
+  },
+  {
+    "question": "Traditional economics is primarily concerned with:",
+    "options": [
+      "Redistribution of wealth",
+      "The efficient allocation of scarce productive resources",
+      "Political power in decision making",
+      "Eradication of absolute poverty"
+    ],
+    "correct": 1,
+    "explanation": "Traditional neoclassical economics focuses on efficient, least-cost allocation of resources under conditions of perfect markets, consumer sovereignty, and equilibrium."
+  },
+  {
+    "question": "Which of the following is a key element of political economy as defined in the module?",
+    "options": [
+      "The study of how political elites influence resource alloca…",
+      "The assumption of perfect competition",
+      "Exclusive focus on GDP growth",
+      "The law of diminishing returns"
+    ],
+    "correct": 0,
+    "explanation": "Political economy examines social and institutional processes through which economic and political elites affect the allocation of scarce resources."
+  },
+  {
+    "question": "According to Amartya Sen, development should be understood as:",
+    "options": [
+      "Rapid industrialisation",
+      "A process of expanding human freedoms and capabilities",
+      "Maximising GNP per capita",
+      "Reducing inflation"
+    ],
+    "correct": 1,
+    "explanation": "Sen’s capability approach argues that development is about enhancing people’s freedoms, choices, and what they can do and be (functionings)."
+  },
+  {
+    "question": "The term 'functionings' in Sen’s capability approach refers to:",
+    "options": [
+      "The amount of money a person earns",
+      "The things a person values doing or being, such as being he…",
+      "The number of goods a person owns",
+      "The utility derived from consumption"
+    ],
+    "correct": 1,
+    "explanation": "Functionings are the various things a person may value doing or being, from basic nourishment to self‑respect and participation in community life."
+  },
+  {
+    "question": "Which of the following best describes economic growth?",
+    "options": [
+      "A qualitative improvement in living standards",
+      "A mere quantitative expansion of output without structural …",
+      "The eradication of poverty and inequality",
+      "A reduction in unemployment"
+    ],
+    "correct": 1,
+    "explanation": "Economic growth refers to an increase in real national output or income per capita, but it does not necessarily bring structural changes or improved distribution."
+  },
+  {
+    "question": "A country can experience economic growth without development when:",
+    "options": [
+      "The benefits of growth are widely shared",
+      "Output increases but poverty, inequality, or unemployment r…",
+      "There is structural transformation from agriculture to indu…",
+      "Per capita income rises and health outcomes improve"
+    ],
+    "correct": 1,
+    "explanation": "Growth without development occurs when output per capita rises but most people do not see improvements in their living standards or wellbeing."
+  },
+  {
+    "question": "According to Schumpeter, economic development is:",
+    "options": [
+      "A gradual and steady increase in saving and population",
+      "A discontinuous and spontaneous change that disrupts existi…",
+      "Identical to economic growth",
+      "Caused only by foreign aid"
+    ],
+    "correct": 1,
+    "explanation": "Schumpeter saw development as discontinuous, spontaneous change that alters and displaces previous equilibrium, driven by innovation."
+  },
+  {
+    "question": "Which of the following is NOT one of Goulet’s three core values of development?",
+    "options": [
+      "Sustenance (basic needs)",
+      "Self‑esteem",
+      "Freedom from servitude",
+      "Maximisation of corporate profits"
+    ],
+    "correct": 3,
+    "explanation": "Goulet identified life sustenance, self‑esteem, and freedom from servitude as the universal core values of development."
+  },
+  {
+    "question": "The objective to 'raise the level of living including more jobs, better education, and greater attention to cultural values' corresponds to which core value?",
+    "options": [
+      "Sustenance",
+      "Self‑esteem",
+      "Freedom from servitude",
+      "Profit maximisation"
+    ],
+    "correct": 1,
+    "explanation": "Self‑esteem is about self‑respect and dignity; better jobs, education, and cultural values contribute to a sense of worth."
+  },
+  {
+    "question": "The concept of 'vicious circle of poverty' implies that:",
+    "options": [
+      "Rich countries help poor countries automatically",
+      "Low income leads to low saving and low investment, perpetua…",
+      "Population growth is the only cause of poverty",
+      "Foreign aid always solves underdevelopment"
+    ],
+    "correct": 1,
+    "explanation": "Vicious circle of poverty means that low income prevents saving and investment, keeping productivity and income low – a self‑reinforcing trap."
+  },
+  {
+    "question": "From the supply side, the vicious circle of poverty operates as:",
+    "options": [
+      "Low demand → small market → low investment",
+      "Low real income → low saving → low investment → low product…",
+      "High population → high demand → high investment",
+      "High taxes → low consumption → low growth"
+    ],
+    "correct": 1,
+    "explanation": "Supply‑side vicious circle: low income → low saving → low capital formation → low productivity → low income."
+  },
+  {
+    "question": "Which obstacle to development refers to the existence of bribery and gift‑giving that has become institutionalised?",
+    "options": [
+      "Political instability",
+      "Corruption",
+      "Inadequate infrastructure",
+      "Market imperfections"
+    ],
+    "correct": 1,
+    "explanation": "Corruption, including bribery, diverts resources, increases costs, and discourages investment, acting as a major obstacle to development."
+  },
+  {
+    "question": "Political instability affects economic growth by:",
+    "options": [
+      "Encouraging long‑term investment",
+      "Closing off sources of internal and external investment",
+      "Increasing government revenue",
+      "Stabilising currency"
+    ],
+    "correct": 1,
+    "explanation": "Political instability creates uncertainty, discourages domestic and foreign investment, and often leads to capital flight."
+  },
+  {
+    "question": "Inadequate infrastructure in LDCs includes lack of:",
+    "options": [
+      "Transport, communication, and power supply",
+      "Advanced technology only",
+      "Skilled labour only",
+      "Natural resources"
+    ],
+    "correct": 0,
+    "explanation": "Poor transport, power, and communication systems are key infrastructure deficiencies that hinder development."
+  },
+  {
+    "question": "The Human Development Index (HDI) is composed of which three dimensions?",
+    "options": [
+      "GDP growth, inflation rate, and unemployment",
+      "Life expectancy, education (literacy and enrolment), and in…",
+      "Infant mortality, calorie intake, and access to water",
+      "Political freedom, gender equality, and environmental quali…"
+    ],
+    "correct": 1,
+    "explanation": "HDI measures long and healthy life (life expectancy), knowledge (adult literacy and gross enrolment), and a decent standard of living (GDP per capita at PPP)."
+  },
+  {
+    "question": "A country with an HDI value of 0.45 is classified as having:",
+    "options": [
+      "High human development",
+      "Medium human development",
+      "Low human development",
+      "Very high human development"
+    ],
+    "correct": 2,
+    "explanation": "UNDP classifies HDI below 0.55 as low human development; 0.45 falls into low human development (0.00‑0.499)."
+  },
+  {
+    "question": "The Physical Quality of Life Index (PQLI) uses which three indicators?",
+    "options": [
+      "GDP per capita, literacy rate, and life expectancy",
+      "Infant mortality, life expectancy at age one, and adult lit…",
+      "School enrolment, inflation, and caloric intake",
+      "Access to clean water, sanitation, and electricity"
+    ],
+    "correct": 1,
+    "explanation": "Morris’s PQLI combines infant mortality, life expectancy at age one, and adult literacy, each scaled 0‑100."
+  },
+  {
+    "question": "The Multidimensional Poverty Index (MPI) captures deprivations in:",
+    "options": [
+      "Only income",
+      "Only health and education",
+      "Health, education, and standard of living (e.g., electricit…",
+      "Political freedom and civil liberties"
+    ],
+    "correct": 2,
+    "explanation": "MPI includes nutrition, child mortality (health); years of schooling, school attendance (education); and living standard indicators like cooking fuel, sanitation, water, electricity, floor, assets."
+  },
+  {
+    "question": "Which of the following is a common demographic characteristic of developing countries?",
+    "options": [
+      "Low birth rates and low death rates",
+      "High birth rates and declining death rates leading to rapid…",
+      "Zero population growth",
+      "Aging population with low dependency ratio"
+    ],
+    "correct": 1,
+    "explanation": "LDCs typically have high birth rates and falling death rates, resulting in rapid population growth and a young age structure."
+  },
+  {
+    "question": "The dependency burden in developing countries is high mainly because:",
+    "options": [
+      "A large proportion of the population is elderly",
+      "A large proportion of the population is children (under 15)",
+      "The labour force participation rate is 100%",
+      "There is no informal sector"
+    ],
+    "correct": 1,
+    "explanation": "High fertility leads to many children, who are dependents, increasing the dependency ratio and pressure on the working‑age population."
+  },
+  {
+    "question": "In most developing countries, the largest share of the labour force is employed in:",
+    "options": [
+      "Industry",
+      "Services",
+      "Agriculture",
+      "Information technology"
+    ],
+    "correct": 2,
+    "explanation": "Agriculture remains the primary employer in many LDCs, often accounting for 50‑80% of employment."
+  },
+  {
+    "question": "Rapid rural‑urban migration in LDCs is mainly caused by:",
+    "options": [
+      "Push factors (rural poverty, landlessness) and pull factors…",
+      "Government restrictions on rural areas",
+      "Declining urban population",
+      "Low fertility in rural areas"
+    ],
+    "correct": 0,
+    "explanation": "Rural‑urban migration is driven by push factors (low rural incomes) and pull factors (expectation of better urban opportunities)."
+  },
+  {
+    "question": "Which of the following is a disadvantage of relying heavily on primary product exports for LDCs?",
+    "options": [
+      "Stable export earnings",
+      "High income elasticity of demand for primary products",
+      "Large fluctuations in world market prices and declining ter…",
+      "Fast technology transfer"
+    ],
+    "correct": 2,
+    "explanation": "Primary products often face volatile prices and declining terms of trade over time, making export earnings unstable and limiting growth."
+  },
+  {
+    "question": "The term 'disguised unemployment' refers to:",
+    "options": [
+      "People who are openly unemployed and actively seeking work",
+      "Workers whose marginal productivity is zero or negligible, …",
+      "Seasonal unemployment in agriculture",
+      "Unemployment benefits"
+    ],
+    "correct": 1,
+    "explanation": "Disguised unemployment exists when too many workers are engaged in an activity (e.g., agriculture) such that some could be removed without reducing total output."
+  },
+  {
+    "question": "According to Rostow, the stage where growth becomes a normal condition and investment rises from 5% to 10% of NNP is called:",
+    "options": [
+      "Traditional society",
+      "Preconditions for take‑off",
+      "The take‑off",
+      "The age of high mass consumption"
+    ],
+    "correct": 2,
+    "explanation": "Rostow's take‑off stage is characterised by rapid growth, increased investment, and the emergence of leading sectors."
+  },
+  {
+    "question": "In Rostow's model, the 'drive to maturity' typically lasts about:",
+    "options": [
+      "10 years",
+      "20 years",
+      "40 years",
+      "100 years"
+    ],
+    "correct": 2,
+    "explanation": "Rostow estimated the drive to maturity as a period of about four decades where technology is applied to the whole range of economic activities."
+  },
+  {
+    "question": "A major criticism of Rostow's stages of growth model is that:",
+    "options": [
+      "It is based on the experience of now‑developed countries an…",
+      "It focuses too much on agriculture",
+      "It ignores the role of capital",
+      "It assumes decreasing returns to scale"
+    ],
+    "correct": 0,
+    "explanation": "Rostow’s model is ethnocentric, derived from Western history, and assumes a linear path that may not hold for contemporary developing nations."
+  },
+  {
+    "question": "The Harrod‑Domar growth model states that the rate of growth of GNP is equal to:",
+    "options": [
+      "The savings ratio times the capital‑output ratio",
+      "The savings ratio divided by the capital‑output ratio",
+      "The capital‑output ratio divided by the savings ratio",
+      "The population growth rate"
+    ],
+    "correct": 1,
+    "explanation": "The key equation: g = s/k, where g is growth rate, s is saving rate, and k is the incremental capital‑output ratio."
+  },
+  {
+    "question": "According to the Harrod‑Domar model, to raise the growth rate a country should:",
+    "options": [
+      "Decrease the savings rate",
+      "Increase the capital‑output ratio",
+      "Increase the savings rate and/or lower the capital‑output r…",
+      "Reduce investment"
+    ],
+    "correct": 2,
+    "explanation": "Growth = s/k, so higher s or lower k → higher growth."
+  },
+  {
+    "question": "A major limitation of the Harrod‑Domar model when applied to LDCs is that:",
+    "options": [
+      "It assumes unlimited labour",
+      "It ignores the need for complementary factors like skilled …",
+      "It assumes constant returns to scale",
+      "It requires low savings"
+    ],
+    "correct": 1,
+    "explanation": "The model assumes that increasing capital alone is sufficient, neglecting managerial, technical, and institutional prerequisites."
+  },
+  {
+    "question": "In the Lewis two‑sector model, the traditional sector is characterised by:",
+    "options": [
+      "High productivity and high wages",
+      "Zero marginal productivity of labour (surplus labour)",
+      "Capital‑intensive production",
+      "Perfectly inelastic labour supply"
+    ],
+    "correct": 1,
+    "explanation": "Lewis assumed the subsistence agricultural sector has surplus labour with zero marginal product, so labour can be transferred without losing output."
+  },
+  {
+    "question": "In the Lewis model, the urban modern sector’s wage is set as:",
+    "options": [
+      "Equal to the marginal product of labour in agriculture",
+      "A premium above the average rural income to attract migrants",
+      "Determined by trade union bargaining only",
+      "The same as the rural wage"
+    ],
+    "correct": 1,
+    "explanation": "Lewis assumed a constant urban wage about 30% higher than average rural income to induce migration."
+  },
+  {
+    "question": "A critical assumption of the Lewis model that may not hold in many LDCs is that:",
+    "options": [
+      "Capitalists reinvest all profits",
+      "There is unlimited supply of labour at a constant wage",
+      "Both (a) and (b)",
+      "There is no technological change"
+    ],
+    "correct": 3,
+    "explanation": "Lewis assumed profit reinvestment and unlimited labour; in reality, profits may be sent abroad (capital flight) and labour may not be unlimited."
+  },
+  {
+    "question": "The neocolonial dependence model attributes underdevelopment primarily to:",
+    "options": [
+      "Low savings rates",
+      "Historical evolution of an unequal international capitalist…",
+      "Lack of natural resources",
+      "High population growth"
+    ],
+    "correct": 1,
+    "explanation": "Dependence theory argues that underdevelopment stems from the exploitative relationship between rich (center) and poor (periphery) nations."
+  },
+  {
+    "question": "Technological dualism, as defined by Benjamin Higgins, refers to:",
+    "options": [
+      "Use of different production functions in the modern and tra…",
+      "Equal technology across all sectors",
+      "Only one type of technology in the economy",
+      "The absence of any technology"
+    ],
+    "correct": 0,
+    "explanation": "Technological dualism means that advanced and traditional sectors use different production technologies, leading to structural unemployment."
+  },
+  {
+    "question": "The concept of 'backwash effects' in Myrdal's cumulative causation theory refers to:",
+    "options": [
+      "Positive impacts of growth on lagging regions",
+      "Negative impacts that drain resources from poorer regions t…",
+      "Government policies that reduce inequality",
+      "The spread of technology to backward areas"
+    ],
+    "correct": 1,
+    "explanation": "Backwash effects are negative: growth in prosperous regions attracts capital, labour, and skills away from poorer regions, worsening inequalities."
+  },
+  {
+    "question": "The Lorenz curve plots:",
+    "options": [
+      "GDP per capita against time",
+      "Cumulative percentage of income against cumulative percenta…",
+      "Inflation against unemployment",
+      "Savings against investment"
+    ],
+    "correct": 1,
+    "explanation": "The Lorenz curve shows the cumulative share of income earned by the cumulative share of the population, from poorest to richest."
+  },
+  {
+    "question": "If a country’s Lorenz curve is closer to the line of perfect equality, it indicates:",
+    "options": [
+      "High income inequality",
+      "Low income inequality",
+      "No income",
+      "Perfect inequality"
+    ],
+    "correct": 1,
+    "explanation": "The closer the Lorenz curve to the 45° diagonal, the more equal the income distribution."
+  },
+  {
+    "question": "The Gini coefficient ranges from:",
+    "options": [
+      "0 to 1, where 0 means perfect equality and 1 means perfect …",
+      "-1 to 1, where 0 means no correlation",
+      "0 to 100, where 100 is perfect equality",
+      "1 to 10, where 10 is most equal"
+    ],
+    "correct": 0,
+    "explanation": "Gini coefficient = area between Lorenz curve and diagonal divided by total area under diagonal; 0 = perfect equality, 1 = perfect inequality."
+  },
+  {
+    "question": "The headcount index of poverty is defined as:",
+    "options": [
+      "The total income gap below the poverty line",
+      "The number of poor people as a percentage of total populati…",
+      "The average income of the poor",
+      "The Gini coefficient among the poor"
+    ],
+    "correct": 1,
+    "explanation": "Headcount ratio = H/N, where H is number of people below poverty line and N is total population."
+  },
+  {
+    "question": "The total poverty gap (TPG) measures:",
+    "options": [
+      "The number of people below the poverty line",
+      "The amount of income needed to bring every poor person up t…",
+      "The percentage of income spent on food by the poor",
+      "The variance of incomes among the poor"
+    ],
+    "correct": 1,
+    "explanation": "TPG = sum over poor of (poverty line – actual income). It indicates the minimum cost of eliminating poverty (ignoring administrative costs)."
+  },
+  {
+    "question": "The Foster‑Greer‑Thorbecke (FGT) index with a = 2 has the property that:",
+    "options": [
+      "It is the headcount ratio",
+      "It is the poverty gap",
+      "It is sensitive to the distribution of income among the poo…",
+      "It ignores the poor"
+    ],
+    "correct": 2,
+    "explanation": "When a = 2, the FGT index weights poverty by the squared income shortfall, making it sensitive to inequality among the poor."
+  },
+  {
+    "question": "Kuznets’ inverted‑U hypothesis suggests that as per capita income increases:",
+    "options": [
+      "Inequality continuously declines",
+      "Inequality first rises, then falls",
+      "Inequality continuously rises",
+      "Inequality remains constant"
+    ],
+    "correct": 1,
+    "explanation": "Kuznets curve: inequality worsens in early stages of development, then improves after a certain income level."
+  },
+  {
+    "question": "Which policy directly targets the unequal distribution of assets in rural areas?",
+    "options": [
+      "Progressive income tax",
+      "Land reform",
+      "Tariff protection",
+      "Export subsidies"
+    ],
+    "correct": 1,
+    "explanation": "Land reform redistributes land ownership from large landowners to landless or tenant farmers, addressing asset inequality."
+  },
+  {
+    "question": "The Grameen Bank in Bangladesh is an example of:",
+    "options": [
+      "Large‑scale industrial loan program",
+      "Microcredit providing small loans to the poor, especially w…",
+      "Government infrastructure project",
+      "Foreign direct investment"
+    ],
+    "correct": 1,
+    "explanation": "The Grameen Bank pioneered microcredit, offering small loans without collateral to poor borrowers to start income‑generating activities."
+  },
+  {
+    "question": "Direct progressive income taxes are intended to:",
+    "options": [
+      "Tax the rich at a higher percentage than the poor",
+      "Tax everyone equally",
+      "Reduce government revenue",
+      "Encourage consumption"
+    ],
+    "correct": 0,
+    "explanation": "Progressive taxes take a larger share from high incomes, helping redistribute income to fund social programs."
+  },
+  {
+    "question": "The concept of 'coordination failure' implies that:",
+    "options": [
+      "Markets always lead to the best outcome",
+      "The inability of agents to coordinate actions leads to a ba…",
+      "Government intervention is never needed",
+      "Only one equilibrium exists"
+    ],
+    "correct": 1,
+    "explanation": "Coordination failure occurs when complementary actions are not taken because agents lack coordination, resulting in a low‑level equilibrium trap."
+  },
+  {
+    "question": "Rosenstein‑Rodan’s 'big push' theory argues for:",
+    "options": [
+      "Small, gradual investments",
+      "Simultaneous, coordinated investment across multiple sectors",
+      "Reducing all government spending",
+      "Focusing only on agriculture"
+    ],
+    "correct": 1,
+    "explanation": "The big push advocates a large, comprehensive investment wave to overcome indivisibilities and complementarities."
+  },
+  {
+    "question": "Endogenous growth theory differs from neoclassical growth theory by:",
+    "options": [
+      "Assuming diminishing returns to capital",
+      "Allowing increasing returns and modelling technological pro…",
+      "Ignoring human capital",
+      "Focusing only on population growth"
+    ],
+    "correct": 1,
+    "explanation": "Endogenous growth models explain growth through internal factors like human capital, innovation, and externalities, rejecting exogenous technological change."
+  },
+  {
+    "question": "According to new growth theory, government policy can promote growth by:",
+    "options": [
+      "Providing infrastructure and encouraging education",
+      "Reducing all public spending",
+      "Discouraging foreign investment",
+      "Maintaining high inflation"
+    ],
+    "correct": 0,
+    "explanation": "Because of positive externalities from human capital and R&D, government support for education, infrastructure, and innovation can raise growth."
+  },
+  {
+    "question": "The Millennium Development Goals (MDGs) were adopted with a target year of:",
+    "options": [
+      "2010",
+      "2015",
+      "2020",
+      "2025"
+    ],
+    "correct": 1,
+    "explanation": "The MDGs were set in 2000 for achievement by 2015, focusing on poverty, education, health, and environment."
+  },
+  {
+    "question": "The Sustainable Development Goals (SDGs) include how many goals?",
+    "options": [
+      "8",
+      "12",
+      "17",
+      "21"
+    ],
+    "correct": 2,
+    "explanation": "Adopted in 2015, the 2030 Agenda has 17 SDGs covering economic, social, and environmental sustainability for all countries."
+  },
+  {
+    "question": "In the context of development, 'brain drain' refers to:",
+    "options": [
+      "Migration of unskilled workers",
+      "Emigration of highly skilled and educated people from poor …",
+      "Loss of agricultural land",
+      "Decrease in population due to disease"
+    ],
+    "correct": 1,
+    "explanation": "Brain drain is the outflow of talented professionals (doctors, engineers, scientists) from developing countries, reducing their human capital."
+  },
+  {
+    "question": "The concept of 'terms of trade' for a country is defined as:",
+    "options": [
+      "The ratio of export prices to import prices",
+      "Total exports minus total imports",
+      "The exchange rate",
+      "The balance of payments"
+    ],
+    "correct": 0,
+    "explanation": "Terms of trade = (price of exports / price of imports). A decline means a country must export more to buy the same amount of imports."
+  },
+  {
+    "question": "According to Prebisch‑Singer hypothesis, the terms of trade for primary‑product exporters tend to:",
+    "options": [
+      "Improve over time",
+      "Remain constant",
+      "Decline over the long run",
+      "Fluctuate randomly with no trend"
+    ],
+    "correct": 2,
+    "explanation": "Prebisch and Singer argued that primary product prices fall relative to manufactured goods, worsening terms of trade for commodity‑dependent LDCs."
+  },
+  {
+    "question": "A major characteristic of least developed countries (LDCs) is:",
+    "options": [
+      "Low per capita income, weak human assets, and economic vuln…",
+      "High per capita income and advanced technology",
+      "Full employment and low inequality",
+      "High levels of foreign direct investment"
+    ],
+    "correct": 0,
+    "explanation": "UN defines LDCs by low income, human assets (health, education), and economic vulnerability (instability, dependence)."
+  },
+  {
+    "question": "The term 'informal sector' in developing countries refers to:",
+    "options": [
+      "Large‑scale manufacturing",
+      "Unregulated, small‑scale economic activities (e.g., street …",
+      "Government employment",
+      "Agricultural plantations"
+    ],
+    "correct": 1,
+    "explanation": "The informal sector consists of unregistered, often low‑productivity jobs with little legal protection, common in LDCs."
+  },
+  {
+    "question": "Which of the following is a non‑economic factor that influences development according to the institutional approach?",
+    "options": [
+      "Capital accumulation",
+      "Natural resources",
+      "Type of government institutions and social structure",
+      "Technology"
+    ],
+    "correct": 2,
+    "explanation": "Institutional approach highlights governance, social norms, cultural traits, and political systems as crucial for development."
+  },
+  {
+    "question": "The 'principle of effective demand' in the Keynesian approach suggests that:",
+    "options": [
+      "Supply creates its own demand",
+      "Government spending can boost output when private demand is…",
+      "Savings are always equal to investment",
+      "Prices are perfectly flexible"
+    ],
+    "correct": 1,
+    "explanation": "Keynes argued that during recessions, aggregate demand may be too low, requiring government intervention (fiscal policy) to restore growth."
+  },
+  {
+    "question": "Which theory explicitly recognises that underdeveloped countries are part of a highly integrated international system that can both help and hinder development?",
+    "options": [
+      "Lewis two‑sector model",
+      "Rostow’s stages",
+      "Structural‑change models (Chenery)",
+      "Classical growth theory"
+    ],
+    "correct": 2,
+    "explanation": "Chenery’s structural‑change models acknowledge international trade, capital, and technology flows as important for a country’s transition."
+  },
+  {
+    "question": "The 'false paradigm' model of underdevelopment attributes poverty to:",
+    "options": [
+      "Insufficient saving",
+      "Faulty and inappropriate advice from Western experts and in…",
+      "Overpopulation",
+      "Lack of natural resources"
+    ],
+    "correct": 1,
+    "explanation": "The false‑paradigm model argues that development failures are due to misguided policies and theories imposed by outsiders."
+  },
+  {
+    "question": "Financial dualism in LDCs refers to:",
+    "options": [
+      "Coexistence of organised low‑interest money markets and uno…",
+      "Use of two currencies",
+      "Equal access to credit for all",
+      "Absence of banks"
+    ],
+    "correct": 0,
+    "explanation": "Financial dualism means formal sector (banks, low rates) and informal sector (moneylenders, high rates) operate side by side."
+  },
+  {
+    "question": "Which of the following is a characteristic of Solow’s neoclassical growth model?",
+    "options": [
+      "Constant returns to scale and diminishing marginal returns …",
+      "Increasing returns to scale in aggregate production",
+      "Endogenous technological change",
+      "No role for savings"
+    ],
+    "correct": 0,
+    "explanation": "Solow model assumes constant returns, diminishing returns to capital and labour separately, and exogenous technical progress."
+  },
+  {
+    "question": "In Solow’s model, the steady state occurs when:",
+    "options": [
+      "Capital per worker grows forever",
+      "Investment per worker equals depreciation plus population g…",
+      "Saving rate is zero",
+      "Technology stops improving"
+    ],
+    "correct": 1,
+    "explanation": "Steady state: capital per worker constant = (saving rate * output per worker) / (depreciation + population growth)."
+  },
+  {
+    "question": "Conditional convergence in the Solow model means that:",
+    "options": [
+      "All countries eventually reach the same income level regard…",
+      "Countries with the same savings, population growth, and tec…",
+      "Poor countries always grow faster than rich countries",
+      "Inequality increases over time"
+    ],
+    "correct": 1,
+    "explanation": "Conditional convergence: controlling for structural parameters, poorer countries grow faster towards their own steady state."
+  },
+  {
+    "question": "The 'Washington Consensus' refers to:",
+    "options": [
+      "A set of neoliberal policies promoting fiscal discipline, p…",
+      "The agreement to create the World Bank",
+      "A UN development conference",
+      "A treaty on climate change"
+    ],
+    "correct": 0,
+    "explanation": "Washington Consensus (John Williamson) described market‑oriented reforms advocated by IMF, World Bank, and US Treasury for LDCs."
+  },
+  {
+    "question": "Which indicator is used to measure relative poverty?",
+    "options": [
+      "Fixed income threshold like $1.90 per day",
+      "Threshold set relative to median income (e.g., 50% of media…",
+      "Calorie intake",
+      "Literacy rate"
+    ],
+    "correct": 1,
+    "explanation": "Relative poverty lines are set as a proportion of median income, reflecting social exclusion standards in a given society."
+  },
+  {
+    "question": "The principle of transfer (Pigou‑Dalton) in inequality measurement states that:",
+    "options": [
+      "Transferring income from a poor to a rich person reduces in…",
+      "Transferring income from a rich to a poor person (not rever…",
+      "Inequality is unaffected by transfers",
+      "Only taxes can change inequality"
+    ],
+    "correct": 1,
+    "explanation": "The transfer principle: a progressive transfer (from richer to poorer) should lower measured inequality; regressive transfer should raise it."
+  },
+  {
+    "question": "One major criticism of using GDP per capita to measure development is that it:",
+    "options": [
+      "Does not capture income distribution or non‑market activiti…",
+      "Is easy to calculate",
+      "Is always accurate",
+      "Includes environmental degradation positively"
+    ],
+    "correct": 0,
+    "explanation": "GDP per capita ignores inequality, non‑market production (e.g., unpaid care work), and environmental costs."
+  },
+  {
+    "question": "The concept of 'capabilities' in Sen’s framework is important because:",
+    "options": [
+      "It focuses only on income",
+      "It recognises that people need different resources to achie…",
+      "It ignores health and education",
+      "It assumes all people are identical"
+    ],
+    "correct": 1,
+    "explanation": "Capabilities account for personal heterogeneities (e.g., disability, age) and social conditions that affect how resources translate into well‑being."
+  },
+  {
+    "question": "In the Lewis model, the process of labour transfer continues until:",
+    "options": [
+      "The modern sector wage equals the average rural product",
+      "All surplus labour is absorbed and the marginal product of …",
+      "The capital‑output ratio becomes zero",
+      "The urban wage falls below subsistence"
+    ],
+    "correct": 1,
+    "explanation": "The turning point occurs when rural surplus labour is exhausted and further labour transfers require higher wages due to positive marginal product."
+  },
+  {
+    "question": "Which of the following is a potential benefit of industrialisation for developing countries?",
+    "options": [
+      "Higher productivity and technological spillovers",
+      "Decreased urbanisation",
+      "Lower demand for education",
+      "Reduction in agricultural output"
+    ],
+    "correct": 0,
+    "explanation": "Industrialisation can raise labour productivity, generate economies of scale, and promote learning and innovation."
+  },
+  {
+    "question": "The term 'enclave economy' refers to:",
+    "options": [
+      "A fully integrated domestic market",
+      "A sector (e.g., mining) that is foreign‑owned and has weak …",
+      "A subsistence farming area",
+      "A free trade zone"
+    ],
+    "correct": 1,
+    "explanation": "Enclave economies produce for export with little local employment or backward/forward linkages, limiting domestic development."
+  },
+  {
+    "question": "What is the main purpose of the 'basic needs approach' to development?",
+    "options": [
+      "Maximising GDP growth",
+      "Ensuring that all people have access to food, shelter, wate…",
+      "Privatising all public services",
+      "Encouraging luxury consumption"
+    ],
+    "correct": 1,
+    "explanation": "The basic needs approach focuses on meeting minimum requirements for a decent life, not just raising average income."
+  },
+  {
+    "question": "According to the module, which of the following is an example of a 'spread effect' in cumulative causation?",
+    "options": [
+      "Migration of skilled labour from poor to rich regions",
+      "Increased demand for agricultural products from a growing i…",
+      "Capital flight from lagging regions",
+      "Concentration of investment in already prosperous areas"
+    ],
+    "correct": 1,
+    "explanation": "Spread effects are positive: growth in core regions increases demand for goods from peripheral regions, benefiting them."
+  }
+]
